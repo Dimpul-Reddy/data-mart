@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/SignIn.scss';
 import { useState } from 'react';
-import bg_Img from '../images/background_image.jpg'
+import bg_Img from '../images/backdround_img'
 import { useDispatch } from 'react-redux';
 import { login } from '../global/AuthSlice'
 import { useCookies } from 'react-cookie';
@@ -29,7 +29,7 @@ function SignIn() {
 
   return (
 
-    <div id="signIn" style={{backgroundImage: `url(${bg_Img})`}}>
+    <div id="signIn" >
       <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'></link>
       <div className="wrapper">
       <form onSubmit={handleSubmit}>

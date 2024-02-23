@@ -5,6 +5,7 @@ Historical weather data API - Meteosource
 by Meteosource Weather API
 Description-Historical weather data for any location worldwide and observed hourly data for the requested day.The Historical Weather API allows you to quickly retrieve accurate, high resolution historical weather data for any location in the world. Our curated weather data is backed by over 120,000 weather stations as well as high resolution gridded weather datasets such as the ERA-5 re-analysis, and global satellite / doppler radar.
 url: https://datarade.ai/data-products/historical-weather-data-api-meteosource-meteosource-weather-api
+for data inside the product(above link)
 
 product-2:
 Customised Weather Data Validation
@@ -12,4 +13,171 @@ by WeatherLogistics
 Description-Customised solutions for validation, scoring, post-processing, calibration and data cleansing of weather data products.
 WeatherLogistics has 10-years experience in climate data science. Its previous validation solutions include an inter-comparison assessment of numerical weather prediction models, assessment of meteorological data against soil moisture measurements, and pioneering research and development of a seasonal climate forecast system. More recently, its team developed software to score GFS and ECMWF products on a decentralised climate data marketplace.
 url: https://datarade.ai/data-products/customised-weather-data-validation-weatherlogistics
+for data inside the product(above link)
+
+product-3:
+Weather Source: OnPoint Weather Impact Indices
+by Weather Source
+Description-Weather Source's Weather Impact Indices incorporate numerous factors such as climatology to provide a reference for the weather being above or below normal, recent weather trends, and even weather forecasts.
+Consumer and Business Weather Impact Indices are aggregations of weather and climate data that are engineered to correlate to numerous consumer and business activities.
+url: https://datarade.ai/data-products/onpoint-machine-learning-ready-weather
+for data inside the product(above link)
+
+product-4:
+LIVE Daily Weather Feed | United States Weather Data
+by AWIS Weather Services
+Description-AWIS Weather Services houses, maintains, and constantly updates an extensive database full of Climate and Weather Data. We offer a LIVE Weather Data Feed that is updated daily. Real United States Weather Observations, checked for quality and reliability. Sorted by Zip Code.
+url: https://datarade.ai/data-products/live-daily-weather-feed-us-weather-data-updated-daily-by-awis-weather-services
+
+Healthcare Data:
+
+
+product-1:
+Healthcare Marketing Data/ B2b Healthcare leads (With email, NPI's and phone )
+by Techsalerator
+Description-US Healthcare database. 5 Million healthcare professionals and contacts data with email addresses, NPI and State License numbers, type of healthcare professional and More. This dataset covers all professionals in the US with the respective information.
+Techsalerator covers all healthcare professionals and contacts with emails, NPI addresses, home addresses and more.
+url: https://datarade.ai/data-products/healthcare-marketing-data-b2b-healthcare-leads-with-email-techsalerator
+
+product-2:
+U.S. Healthcare Data | Medicare | National | Practitioner level
+by RateSpot
+Description-We provide data on centers for medicare and medicaid health coverage for more than 100 million people through Medicare, Medicaid, the Children’s Health Insurance Program, and the Health Insurance Marketplace.Our datasets are updated periodically in the system on a weekly, monthly, quarterly, or annual basis. 
+To identify the update frequency of a dataset, look for the “Data update frequency” on the top of any dataset detail page.
+url: https://datarade.ai/data-products/u-s-healthcare-data-national-practitioner-level-ratespot
+
+product-3:
+Healthcare Professional Database
+by Span Global Services
+Description-Healthcare professionals database inclusive of Indepth fields such as specialty, clinic/hospital details, designation, NPI number, credentials, State License number, HCPS, EHR and more
+Healthcare professionals database inclusive of in-depth fields such as specialty, clinic/hospital details, designation, NPI number, credentials, State License number, HCPS code, EHR & CHP code and product name, attestation month and year, avg number of patients and claims per month, prescribing drugs name
+url: https://datarade.ai/data-products/healthcare-professional-database-span-global-services
+
+product-4:
+USA Healthcare Data for Multi channel marketing-Email-Phone-Direct Mail
+by Thomson Data
+Description-We offer medical and healthcare marketing services for hospitals, healthcare networks, and specialized healthcare companies. As marketing professionals, we understand challenges you face in the healthcare industry. And so we work towards providing you expertise that can strengthen your market presence, build customer base, and increase your market share and ROI in the healthcare sector.
+url: https://datarade.ai/data-products/usa-healthcare-data-for-multi-channel-marketing-email-phone-d-thomson-data
+
+Legal Data:
+
+product-1:
+UniCourt Legal Analytics API - USA Legal Data (AI Normalized)
+by UniCourt
+Description-Get easy access to legal analytics and the structured state and federal court data you need to build analytics for your own unique use cases.
+UniCourt provides easy access to normalized legal analytics data via our Attorney Analytics API, Law Firm Analytics API, Judge Analytics API, Party Analytics API, and Court Analytics API, giving you the flexibility you need to intuitively move between interconnected data points. This structure can be used for AI & ML Training Data.
+url:https://datarade.ai/data-products/unicourt-legal-analytics-api-usa-legal-data-ai-normalized-unicourt
+
+product-2:
+Grepsr | Legal Data | Lawyers List Datasets | Global Coverage
+by Grepsr
+Description-The legal (court) dataset consists of daily updates of civil and criminal offenses from different courts. Legal data is law-related information that includes court records, cases, court papers, judges, attorney information, contact details, law firms, and litigation history.
+url:https://datarade.ai/data-products/legal-judicial-court-data-grepsr-grepsr
+
+product-3:
+EDI Legal Entity Identifier (LEIs) of Global Companies
+by Exchange Data International
+Description-Legal Entity in Financial Transactions and Trades. EDI is proud to be able to offer LEI management in affiliation with ManagedLEI.
+A Legal Entity Identifier (LEI) is a 20-digit alpha-numeric code representing a unique business entity participating in financial transactions. LEI Numbers are characterised by an ISO 17442 standard and represented in an open database managed by the Global Legal Entity Identifier Foundation (GLEIF).
+url:https://datarade.ai/data-products/legal-entity-identifier-exchange-data-international
+
+product-4:
+Firmographic Data on all 300 million businesses worldwide in single Dataset
+by BoldData
+Description-Find new clients worldwide with our highly accurate firmographic database with 341.897.577 businesses worldwide. Firmographics is data relating to a company's key characteristics. It's mostly used to segment databases and utilize marketing campaigns.
+url:https://datarade.ai/data-products/data-cleansing-bolddata
+
+Brand Data:
+
+Product-1:
+SafeGraph Brand Data | Global Coverage | 51M+ Places
+by SafeGraph
+Description-Business listing information about points of interest (POI), such as brand, address, location, lat/log, open-hours, and NAICS category. This high-quality data also includes open and close dates, category tags, and the Placekey universal identifier to easily join any other attributes
+url:https://datarade.ai/data-products/safegraph-brand-data-global-coverage-41m-places-safegraph
+
+product-2:
+Vehicle Fleet & Brands Data (LATAM) by PREDIK Data-Driven
+by Predik Data-driven
+Description-Datasets with detailed information on vehicle fleets, with specifics on type of vehicle (heavy duty trucks, business fleets, public transport, cars, motorcycles, among others, depending on the country), brands, market share.
+url:https://datarade.ai/data-products/vehicle-fleet-brands-tracking-data-predik-data-driven
+
+product-3:
+RIWI Alpha China - Real-Time Consumer and Brand Data - Electric Vehicles and Luxury Goods
+by RIWI
+Description-The RIWI Alpha datastreams survey Chinese citizens and aggregates consumer sentiment and market data in real-time. The resulting data is then used to generate positive or negative trend scores that track the performance of electric vehicle and luxury good brands in China.
+url: https://datarade.ai/data-products/riwi-alpha-china-real-time-consumer-and-brand-data-electr-riwi
+
+product-4:
+Scorri| Web activity with brand and product sentiment analysis|share of voice| brand health| brand Transaction data
+by Scorri
+Description-Unlock comprehensive consumer and competitor insights with our vast pool of purchase data, enriched with demographic attributes, digit identifiers (IP MAID HEM) and online insights. We are able to support you with data and advisory service to boost your business in both marketing and financial area.
+url: https://datarade.ai/data-products/scorri-web-activity-with-brand-and-product-sentiment-analysi-scorri
+
+Mobile App data:
+
+product-1:
+Factori Raw mobile location data -Available Globally( 1 year history)
+by Factori
+Description-We provide high-quality persistent mobility data from our partnered mobile apps & SDKs and this data feed is aggregated from multiple data sources globally and is delivered as a daily feed to an S3 bucket of your choice. All data is collected and anonymized with clear consent and terms of usage.
+url: https://datarade.ai/data-products/lifesight-foot-traffic-data-global-mobile-location-data-2-lifesight
+
+Product-2:
+Irys | Mobile Location Data Insights | Global | Real-Time & Historical
+by Irys
+Description-Unlock unparalleled precision with Irys. Access raw GPS data delivered at an hourly cadence for South America in both real-time and historical modes. Discover a comprehensive solution for Location Data, Places Data, Mobility Data, and IP Address Data.
+url: https://datarade.ai/data-products/irys-mobile-location-data-insights-global-real-time-h-irys
+
+product-3:
+Mobile App Data, TV App Data, App Data, Google & Apple App store Data
+by APISCRAPY
+Description-Access comprehensive Mobile App Data and TV App Data with APISCRAPY. Our cutting-edge scraping technology ensures 100% accuracy, gathering all publicly available data from Google and Apple App stores. Empower your business with accurate insights.
+url: https://datarade.ai/data-products/mobile-app-data-tv-app-data-app-data-google-apple-app-st-apiscrapy
+
+product-4:
+Collective Data Solutions | Mobile App Data | App Usage Data
+by Collective Data Solutions
+Description-The Collective is the largest independent global data marketplace (DMP) with over ten billion all-time MAIDs and a massive global footprint and 68M MAU and 8M DAU in our App Activity data feed.
+url: https://datarade.ai/data-products/app-activity-app-usage-data-global-68m-mau-8m-dau-collective-data-solutions
+
+Environmental data:
+
+Product-1:
+ESG Data - Environmental, Social, and Governance Ratings
+by Financial Modeling Prep
+Description-ESG scores for publicly traded companies with our comprehensive tool. Evaluate environmental, social, and governance aspects individually, along with an overall ESG score. Compare ratings across industries or sectors to see company's standing and performance.
+url: https://datarade.ai/data-products/esg-data-environmental-social-and-governance-ratings-financial-modeling-prep
+
+product=2:
+Environmental Data | Sustainability Data | ESG Data
+by GIST
+Description-Environmental (Sustainability) ESG Data of 14000+ companies globally across 40+ natural capital metrics and 7 years of historical coverage.
+url: https://datarade.ai/data-products/traceable-sustainability-data-for-listed-equities-3200-comp-gist
+
+product-3:
+UN SDG Environmental and Social Impact Data for 22,000+ companies (API)
+by Sustainable Platform
+Description-Daily data analysis of environmental and social impact contributions based on UN SDGs, with coverage of established firms and emerging markets.
+url: https://datarade.ai/data-products/environmental-and-social-impact-contribution-for-18-000-comp-sustainable-platform
+
+product-4:
+Bitvore Cellenus for Environmental, Social and Governance (ESG)
+by Bitvore
+Description- Bitvore Cellenus for Environmental, Social and Governance (ESG) provides ESG insights on over 400k+ global public and private companies from a diverse set unstructured (text) data
+url: https://datarade.ai/data-products/bitvore-cellenus-for-environmental-social-and-governance-esg-bitvore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
