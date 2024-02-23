@@ -59,19 +59,22 @@ function PublishedProduct() {
   
 
   return (
-    <div>
-      <Navbar />
       <div id="productPage">
         <div className="heading">
           <img src={prodImg} alt="prod" height="140px" />
           <div className="heading-content">
             <h2>{product.productName}</h2>
-            <p>By produce name</p>
+            <h5>By produce name</h5>
           </div>
         </div>
+        <div className="action-bar">
+        <Button className='purple' onClick={() => window.location.href="/consumer"}>Add Consumer</Button>
+      </div>
         <h4>Description</h4>
         <p>{product.productDescription}</p>
         <hr />
+
+        
        <DataTable
           rows={product.DataList}
           headers={[
@@ -84,10 +87,10 @@ function PublishedProduct() {
           isSortable
         >
           {({ rows, headers, getTableProps, getHeaderProps, getRowProps, getSelectionProps }) => (
-            <Table {...getTableProps()}>
-              <TableHead>
+            <Table  {...getTableProps()}>
+              <TableHead >
                 <TableRow>
-                  <TableSelectAll {...getSelectionProps()}></TableSelectAll>
+                  {/* <TableSelectAll {...getSelectionProps()}></TableSelectAll> */}
                   {headers.map((header) => (
                     <TableHeader {...getHeaderProps({ header })}>{header.header}</TableHeader>
                   ))}
@@ -96,7 +99,7 @@ function PublishedProduct() {
               <TableBody>
                 {rows.map((row, rowIndex) => (
                   <TableRow {...getRowProps({ row })} key={rowIndex}>
-                    <TableSelectRow {...getSelectionProps({ row, id: rowIndex })}></TableSelectRow>
+                    {/* <TableSelectRow {...getSelectionProps({ row, id: rowIndex })}></TableSelectRow> */}
                     {row.cells.map((cell, cellIndex) => (
                       <TableCell key={cell.id}>
                         {cell.value}
@@ -108,10 +111,7 @@ function PublishedProduct() {
             </Table>
           )}
         </DataTable>
-        <Button onClick={()=>window.location.href="/consumer"}>Add Consumer</Button>
-
       </div>
-    </div>
   );
 }
 
